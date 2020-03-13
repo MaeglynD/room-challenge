@@ -1,2 +1,5 @@
 # room challenge
- nothing to see here
+
+cd room-challenge
+
+dotnet run
