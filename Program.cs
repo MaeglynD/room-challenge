@@ -42,7 +42,7 @@ namespace room_challenge
                     return ValidateBool(msg);
                 }
 
-                return input == "y" ? true : false;
+                return input == "y";
             }
 
             // Setup console
